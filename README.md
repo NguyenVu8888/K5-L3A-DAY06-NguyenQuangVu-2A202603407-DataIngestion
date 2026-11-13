@@ -8,9 +8,31 @@ Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, r�
 |---|---|---|
 | Tối thiểu **30 trang nội dung** | Tối thiểu **3 cấu hình** | Tối thiểu **20 câu hỏi** |
 
-## Bắt đầu nhanh
+## Bắt đầu nhanh & Hướng dẫn chạy từng bước
 
-Dùng [starter PostgreSQL + pgvector](starter/README.md) để dựng database và hoàn thiện các hàm TODO, hoặc tự chọn vector store tương đương. Starter chỉ là khung: **bạn tự hiện thực pipeline và benchmark**.
+Dự án đã được thiết lập sẵn bộ runner tương tác cho phép bạn chạy và quan sát kết quả của từng bước độc lập:
+
+```bash
+# Thiết lập môi trường Python và cài đặt dependencies cần thiết:
+python -m pip install -r starter/requirements.txt
+python -m pip install qdrant-client python-dotenv
+
+# Chạy kiểm tra từng bước theo đề bài:
+python starter/scripts/step_by_step.py --step 1   # Bước 1: Khảo sát, đọc và chuẩn hóa PDF (56 trang, 98.305 ký tự)
+python starter/scripts/step_by_step.py --step 2   # Bước 2: Kiểm tra bộ Benchmark & kiểm chứng 100% bằng chứng (20 câu)
+python starter/scripts/step_by_step.py --step 3   # Bước 3: So sánh 2 chiến lược Chunking A (Fixed) và B (Paragraph)
+python starter/scripts/step_by_step.py --step 4   # Bước 4: Kiểm tra kết nối Embedding API & Qdrant Vector Store
+python starter/scripts/step_by_step.py --step 5   # Bước 5: Thực thi nhúng vector & truy xuất Top-3 toàn bộ câu hỏi
+python starter/scripts/step_by_step.py --step 6   # Bước 6: Xem đánh giá 5 khía cạnh và tổng hợp kết quả
+
+# Hoặc chạy toàn bộ quy trình:
+python starter/scripts/step_by_step.py --all
+```
+
+> [!NOTE]
+> Để thực thi Bước 5, hãy điền `GEMINI_API_KEY` hoặc `OPENROUTER_API_KEY` vào file `.env`. Các bước 1, 2, 3 hoàn toàn có thể chạy ngay mà không cần API key.
+
+---
 
 ## 1. Xây pipeline
 

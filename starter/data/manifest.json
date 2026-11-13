@@ -1,0 +1,354 @@
+{
+  "source_id": "cesti-2023-ai-healthcare",
+  "title": "Báo cáo Toàn cảnh công nghệ AI phục vụ lĩnh vực chăm sóc sức khỏe: Xu hướng nghiên cứu công nghệ trên thế giới và một số giải pháp ứng dụng tại Việt Nam",
+  "source_path_or_url": "2023-BC-toan-canh-cong-nghe-AI-cham-soc-suc-khoe.pdf",
+  "publisher": "Sở Khoa học và Công nghệ TP.HCM - Trung tâm Thông tin và Thống kê KH&CN (CESTI)",
+  "publication_date": "2022-10",
+  "license_or_permission": "Báo cáo chuyên đề phân tích xu hướng công nghệ xuất bản công khai bởi CESTI TP.HCM, phục vụ phổ biến kiến thức, nghiên cứu khoa học và đào tạo phi thương mại.",
+  "accessed_at": "2026-11-13",
+  "total_physical_pages": 58,
+  "content_pages_count": 56,
+  "page_selection_rule": "Loại trừ trang 1 (Bìa) và trang 2 (Mục lục) vì không chứa nội dung tri thức chuyên đề hữu ích; giữ toàn bộ 56 trang từ trang 3 đến trang 58 (gồm Phần mở đầu, Phần 1, Phần 2, Phần 3 và Phụ lục). Đảm bảo >= 30 trang nội dung hữu ích theo quy định.",
+  "total_characters": 98305,
+  "short_pages": [
+    51
+  ],
+  "pages_summary": [
+    {
+      "page": 3,
+      "section": "mo_dau",
+      "char_count": 2863,
+      "first_words": "PHẦN MỞ ĐẦU Trí tuệ nhân tạo (AI) phục vụ lĩnh vực chăm sóc sức khỏe là việc sử "
+    },
+    {
+      "page": 4,
+      "section": "mo_dau",
+      "char_count": 2748,
+      "first_words": "công nghệ AI nhằm phục vụ lĩnh vực chăm sóc sức khỏe , Trung tâm Thông tin và Th"
+    },
+    {
+      "page": 5,
+      "section": "phan_1_the_gioi",
+      "char_count": 1340,
+      "first_words": "1  PHẦN 1 - TÌNH HÌNH NGHIÊN C ỨU ỨNG D ỤNG CÔNG NGH Ệ AI TRONG LĨNH VỰC CHĂM SÓ"
+    },
+    {
+      "page": 6,
+      "section": "phan_1_the_gioi",
+      "char_count": 1599,
+      "first_words": "2  tính ngày càng gia tăng về sức mạnh cũng như các thu ật toán máy h ọc dần đượ"
+    },
+    {
+      "page": 7,
+      "section": "phan_1_the_gioi",
+      "char_count": 1586,
+      "first_words": "3  Theo thống kê số lượng đăng ký bảo hộ sáng chế tại 6 quốc gia/tổ chức dẫn đầu"
+    },
+    {
+      "page": 8,
+      "section": "phan_1_the_gioi",
+      "char_count": 1422,
+      "first_words": "4  Hình 4. Hướng nghiên cứu chính ứng dụng công nghệ AI phục vụ lĩnh vực chăm só"
+    },
+    {
+      "page": 9,
+      "section": "phan_1_the_gioi",
+      "char_count": 1426,
+      "first_words": "5  26/8/2022, đề cập đến việc sử dụng công nghệ blockchain trong hệ thống chăm s"
+    },
+    {
+      "page": 10,
+      "section": "phan_1_the_gioi",
+      "char_count": 1697,
+      "first_words": "6  hình ảnh y t ế; tái tạo hình ảnh 2D, 3D; k ỹ thuật phân loại, phân đo ạn hình"
+    },
+    {
+      "page": 11,
+      "section": "phan_1_the_gioi",
+      "char_count": 2484,
+      "first_words": "7  Nhóm Kỹ thuật xử lý dữ liệu bệnh án điện tử cũng có khá nhiều nghiên cứu, ví "
+    },
+    {
+      "page": 12,
+      "section": "phan_1_the_gioi",
+      "char_count": 1322,
+      "first_words": "8  Hình 7. Tỷ lệ bảo hộ sáng chế công nghệ AI trong chăm sóc sức khỏe tại một số"
+    },
+    {
+      "page": 13,
+      "section": "phan_1_the_gioi",
+      "char_count": 1817,
+      "first_words": "9  Hình 8. Ứng dụng công nghệ AI trong hoạt động chăm sóc sức khỏe Sáng chế có m"
+    },
+    {
+      "page": 14,
+      "section": "phan_1_the_gioi",
+      "char_count": 1729,
+      "first_words": "10  So sánh tương quan về tỷ lệ bảo hộ giữa 6 quốc gia/tổ chức, Trung Quốc có tỷ"
+    },
+    {
+      "page": 15,
+      "section": "phan_1_the_gioi",
+      "char_count": 1219,
+      "first_words": "11  Hình 10. Xu hướng tăng trưởng các sáng chế ứng dụng công nghệ AI trong hoạt "
+    },
+    {
+      "page": 16,
+      "section": "phan_1_the_gioi",
+      "char_count": 2557,
+      "first_words": "12  Các nghiên cứu về kiểm soát lây nhi ễm ban đầu chủ yếu liên quan đến kiểm so"
+    },
+    {
+      "page": 17,
+      "section": "phan_1_the_gioi",
+      "char_count": 1122,
+      "first_words": "13  Hình 12. Các phương pháp chẩn đoán và dự đoán bệnh với sự hỗ trợ của AI Các "
+    },
+    {
+      "page": 18,
+      "section": "phan_1_the_gioi",
+      "char_count": 2734,
+      "first_words": "14  Trong chẩn đoán bệnh bằng hình ảnh y tế, với bệnh ung thư, có thể kể đến sán"
+    },
+    {
+      "page": 19,
+      "section": "phan_1_the_gioi",
+      "char_count": 1860,
+      "first_words": "15  1.4.1.2 Hệ thống/Thiết bị hỗ trợ chăm sóc và điều trị bệnh Trong các Hệ thốn"
+    },
+    {
+      "page": 20,
+      "section": "phan_1_the_gioi",
+      "char_count": 1875,
+      "first_words": "16  Trong các h ệ thống giám sát và l ập kế hoạch điều trị, có th ể kể đến các n"
+    },
+    {
+      "page": 21,
+      "section": "phan_1_the_gioi",
+      "char_count": 1918,
+      "first_words": "17  nhà khoa học Ấn Độ, đề cập đến thiết bị cầm tay có thể đeo được để thu thập "
+    },
+    {
+      "page": 22,
+      "section": "phan_1_the_gioi",
+      "char_count": 2693,
+      "first_words": "18  Ứng dụng trong Robot phẫu thuật, công nghệ AI được sử dụng trong các sáng ch"
+    },
+    {
+      "page": 23,
+      "section": "phan_1_the_gioi",
+      "char_count": 1435,
+      "first_words": "19  Hình 17. Top 25 đơn vị sở hữu trên 50 sáng chế ứng dụng công nghệ AI phục vụ"
+    },
+    {
+      "page": 24,
+      "section": "phan_1_the_gioi",
+      "char_count": 1804,
+      "first_words": "20  1.5.2 Đăng ký bảo hộ của các đơn vị sở hữu nhiều sáng chế về AI Hầu hết các "
+    },
+    {
+      "page": 25,
+      "section": "phan_1_the_gioi",
+      "char_count": 830,
+      "first_words": "21  Tên tổ chức + Nước Loại tổ chức Trung Quốc Mỹ PCT Ấn Độ Hàn Quốc Nhật Bản EP"
+    },
+    {
+      "page": 26,
+      "section": "phan_2_viet_nam",
+      "char_count": 2007,
+      "first_words": "22  PHẦN 2 - CÁC GI ẢI PHÁP ỨNG D ỤNG CÔNG NGHỆ AI PHỤC V Ụ LĨNH V ỰC CHĂM SÓC S"
+    },
+    {
+      "page": 27,
+      "section": "phan_2_viet_nam",
+      "char_count": 2045,
+      "first_words": "23  về sự xuất hiện của polyp và lo ại polyp đư ợc đưa ra đ ể cảnh báo đ ể phục "
+    },
+    {
+      "page": 28,
+      "section": "phan_2_viet_nam",
+      "char_count": 1898,
+      "first_words": "24  thuật toán học máy và học sâu thực hiện các chức năng bao gồm phân loại bệnh"
+    },
+    {
+      "page": 29,
+      "section": "phan_2_viet_nam",
+      "char_count": 2130,
+      "first_words": "25   Hệ thống robot y t ế vận chuyển phục vụ trong khu cách ly b ệnh truyền nhi"
+    },
+    {
+      "page": 30,
+      "section": "phan_2_viet_nam",
+      "char_count": 2236,
+      "first_words": "26  tương ứng; cảm biến quán tính để xác định gia tốc và sự sai lệch về góc của "
+    },
+    {
+      "page": 31,
+      "section": "phan_2_viet_nam",
+      "char_count": 2157,
+      "first_words": "27  can thiệp kịp thời khi bệnh có di ễn biến xấu. Thiết bị theo dõi tình tr ạng"
+    },
+    {
+      "page": 32,
+      "section": "phan_2_viet_nam",
+      "char_count": 2347,
+      "first_words": "28  Tác giả sáng chế: Trương Quốc Hùng, Hoàng Vũ, Nguyễn Mạnh Hùng, Bùi Hữu Trun"
+    },
+    {
+      "page": 33,
+      "section": "phan_2_viet_nam",
+      "char_count": 2237,
+      "first_words": "29  2.2 Một số giải pháp công nghệ trong nước sẵn sàng chuyển giao 2.2.1 Khai th"
+    },
+    {
+      "page": 34,
+      "section": "phan_2_viet_nam",
+      "char_count": 1021,
+      "first_words": "30  Hình 18. Các cột mốc quan trọng trong lộ trình khai thác bệnh án điện tử Việ"
+    },
+    {
+      "page": 35,
+      "section": "phan_2_viet_nam",
+      "char_count": 1897,
+      "first_words": "31  Ngoài ra, AI còn được sử dụng để phân nhóm các bệnh nhân có cùng hoặc có các"
+    },
+    {
+      "page": 36,
+      "section": "phan_2_viet_nam",
+      "char_count": 1011,
+      "first_words": "32  Hình 21. Mô hình chẩn đoán ung thư máu dựa trên hình ảnh phân cực ánh sáng N"
+    },
+    {
+      "page": 37,
+      "section": "phan_2_viet_nam",
+      "char_count": 1164,
+      "first_words": "33  Hình 23. Giao diện phần mềm dự đoán ung thư vú dựa trên hình ảnh phân cực 2."
+    },
+    {
+      "page": 38,
+      "section": "phan_2_viet_nam",
+      "char_count": 620,
+      "first_words": "34  Hình 24. Gene liên quan sự sống còn, chẩn đoán sớm và đáp ứng điều trị trong"
+    },
+    {
+      "page": 39,
+      "section": "phan_2_viet_nam",
+      "char_count": 1512,
+      "first_words": "35  Tuy nhiên, nghiên cứu vẫn còn gặp một số hạn chế như: số mẫu chưa đủ nhiều, "
+    },
+    {
+      "page": 40,
+      "section": "phan_2_viet_nam",
+      "char_count": 1109,
+      "first_words": "36  Hình 27. Ca phẫu thuật bằng robot từ xa đầu tiên trên thế giới Robot được ứn"
+    },
+    {
+      "page": 41,
+      "section": "phan_2_viet_nam",
+      "char_count": 1515,
+      "first_words": "37  Với các hệ thống phẫu thuật robot ngày càng hiện đại hiện nay, các cánh tay "
+    },
+    {
+      "page": 42,
+      "section": "phan_2_viet_nam",
+      "char_count": 1674,
+      "first_words": "38  Nội dung: Viêm ruột thừa (VRT) khá ph ổ biến và nguy hi ểm. VRT có bi ến chứ"
+    },
+    {
+      "page": 43,
+      "section": "phan_2_viet_nam",
+      "char_count": 616,
+      "first_words": "39  Qua nghiên c ứu, có th ể kết luận được rằng kỹ thuật máy h ọc có giá trị tro"
+    },
+    {
+      "page": 44,
+      "section": "phan_2_viet_nam",
+      "char_count": 1471,
+      "first_words": "40  2.2.6 Ứng dụng công nghệ AIoHT trong giám sát sức khỏe từ xa Tác giả: Bà Ngu"
+    },
+    {
+      "page": 45,
+      "section": "phan_2_viet_nam",
+      "char_count": 755,
+      "first_words": "41  Hình 33. Ứng dụng di động theo dõi sức khỏe thông minh dành cho người bệnh ("
+    },
+    {
+      "page": 46,
+      "section": "phan_3_ket_luan",
+      "char_count": 2321,
+      "first_words": "42  PHẦN 3 - KẾT LUẬN 3.1 Về xu hư ớng phát tri ển công ngh ệ AI ph ục vụ lĩnh v"
+    },
+    {
+      "page": 47,
+      "section": "phan_3_ket_luan",
+      "char_count": 2620,
+      "first_words": "43  Theo hướng nghiên cứu về các Kỹ thuật thu thập và xử lý dữ liệu, nhóm các sá"
+    },
+    {
+      "page": 48,
+      "section": "phan_3_ket_luan",
+      "char_count": 2574,
+      "first_words": "44  phát triển dược phẩm và xây d ựng phác đ ồ điều trị. Ngoài ra, v ới sự phát "
+    },
+    {
+      "page": 49,
+      "section": "phan_3_ket_luan",
+      "char_count": 2472,
+      "first_words": "45  ảnh phân c ực ánh sáng cùng v ới phương pháp tính toán, trích xu ất các giá "
+    },
+    {
+      "page": 50,
+      "section": "phan_3_ket_luan",
+      "char_count": 1631,
+      "first_words": "46  - 1SK RPM Platform , nền tảng giám sát ngư ời bệnh từ xa cho cơ s ở y tế, ch"
+    },
+    {
+      "page": 51,
+      "section": "phu_luc",
+      "char_count": 16,
+      "first_words": "47  PHẦN PHỤ LỤC"
+    },
+    {
+      "page": 52,
+      "section": "phu_luc",
+      "char_count": 1825,
+      "first_words": "48  Phụ lục 1 MỘT SỐ KẾT QUẢ NGHIÊN CỨU CÔNG NGHỆ AI PHỤC VỤ LĨNH VỰC CHĂM SÓC S"
+    },
+    {
+      "page": 53,
+      "section": "phu_luc",
+      "char_count": 1402,
+      "first_words": "49  8 Phát triển các phương pháp học máy để khai thác bệnh án điện tử cho chăm s"
+    },
+    {
+      "page": 54,
+      "section": "phu_luc",
+      "char_count": 2335,
+      "first_words": "50  Phụ lục 2 MỘT SỐ SÁNG CHẾ CÔNG NGHỆ AI PHỤC VỤ LĨNH VỰC CHĂM SÓC SỨC KHỎE ĐÃ"
+    },
+    {
+      "page": 55,
+      "section": "phu_luc",
+      "char_count": 1892,
+      "first_words": "51  14 Hệ thống và phương pháp phân tích, hỗ trợ chẩn đoán và đề xuất các phương"
+    },
+    {
+      "page": 56,
+      "section": "phu_luc",
+      "char_count": 1276,
+      "first_words": "52  Nguyễn Quang Thắng; Nguyễn Ngọc Danh; Nguyễn Ngọc Thạch; Hồ Quốc Vinh; Hà Th"
+    },
+    {
+      "page": 57,
+      "section": "phu_luc",
+      "char_count": 2348,
+      "first_words": "53  Phụ lục 3 MỘT SỐ GIẢI PHÁP ỨNG DỤNG CÔNG NGHỆ AI PHỤC VỤ LĨNH VỰC CHĂM SÓC S"
+    },
+    {
+      "page": 58,
+      "section": "phu_luc",
+      "char_count": 2091,
+      "first_words": "54  15 Trợ lý ảo công nghệ AI hỗ trợ đắc lực ngành Y tế thế giới Công ty CP FPT "
+    }
+  ]
+}
